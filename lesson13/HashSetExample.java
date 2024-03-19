@@ -20,5 +20,6 @@ public class HashSetExample {
         System.out.println(hashSet.size());
         hashSet.remove("Rox");
         System.out.println(hashSet);
+
     }
 }
